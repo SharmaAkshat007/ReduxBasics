@@ -1,0 +1,3 @@
+export const GET_USERS = "GET_USER";
+export const GET_USERS_SUCCESS = "GET_USER_SUCCESS";
+export const GET_USERS_FAILURE = "GET_USER_FALIURE";
